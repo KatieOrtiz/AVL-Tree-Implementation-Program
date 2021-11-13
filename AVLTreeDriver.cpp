@@ -1,4 +1,3 @@
-//Katie Ortiz - Homework #2 - CS 236 - 2/28/2021
 #include "AVLTreeHeader.h"
 
 
